@@ -32,7 +32,7 @@ flutter_launcher_icons:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/renal_cool.png
+    - assets/images/siska_amelia.png
   fonts:
     - family: Quicksand
       fonts:
